@@ -86,3 +86,4 @@ In this project, we began working on relational databases. I started practising 
   
 ## Dump file :dolphin:
 * Tasks 101-103 query from the database [temperatures.sql](./temperatures.sql).
+This is the basics and introductory part of Databases.
